@@ -44,5 +44,6 @@ bool isPrime(unsigned int x) {
     if (x % i == 0) return false;
     i = i + 2;
   }
+  cout << i << endl; // testing scoping in while loop
   return true;
 }
