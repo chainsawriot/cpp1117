@@ -11,4 +11,3 @@ int main( ) {
   cout << "The roots of the equation is\n" << root1 << " " << root2 << endl;
   return 0;
 }
-
