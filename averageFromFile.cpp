@@ -1,6 +1,6 @@
 #include <iostream>
 #include <fstream>     // for file access
-#include <cstdlib>
+#include <cstdlib> // For the exit() function
 #include <string>
 
 using namespace std;
